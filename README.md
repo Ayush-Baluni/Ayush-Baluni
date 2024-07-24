@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Ayush-Baluni
+- 👀 I’m interested in Web Development and DSA
+- 🌱 I’m currently learning HTML & CSS
+- 💞️ I’m looking to collaborate on Web Development Projects
+- 📫 How to reach me abaluni100@gmail.com
+- 🎓 Currently pursuing BCA
